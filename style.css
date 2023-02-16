@@ -1,0 +1,98 @@
+.container {
+    width: 850px;
+    border: 2px solid white;
+    height: 100%;
+}
+
+.header_content {
+    margin-top: 15px;
+}
+
+.name {
+    color: orangered;
+    margin-left: 100px;
+    padding-bottom: 150px;
+}
+
+.box {
+    background-color: rgba(64, 104, 101, 255);
+    border-radius: 0% 0% 50% 50%;
+    text-align: center;
+    width: 250px;
+    height: 215px;
+    font-size: 25px;
+    color: white;
+    padding: 25px;
+    margin-top: -50px;
+    margin-left: 55%;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.maindiv {
+    position: relative;
+}
+
+.aboutus {
+    background-color: rgba(64, 104, 101, 255);
+    justify-content: center;
+}
+.abouttitle{
+    padding-left:10px;
+    padding-top: 10px;
+    color: white;
+}
+.about_content{
+    padding-top:6px;
+    padding-left:30px;
+    padding-right:20px;
+    padding-bottom:20px;
+    font-size:19px;
+    color: white;
+}
+.contactus {
+    background-color:orangered;
+    justify-content: center;
+    margin-top: -17px;
+}
+.contactustitle{
+    padding-left:10px;
+    padding-top: 10px;
+    color: white;
+}
+.contactus_content{
+    padding-top:6px;
+    padding-left:30px;
+    padding-right:20px;
+    padding-bottom:20px;
+    font-size:20px;
+    color: white;
+}
+.link {
+    background-color:rgba(213,229, 229, 255);
+    justify-content: center;
+    margin-top: -17px;
+}
+.link_content{
+    padding-top:6px;
+    padding-left:30px;
+    padding-right:20px;
+    padding-bottom:20px;
+    font-size:25px;
+    color: black;
+}
+.services_heading{
+    padding-top:30px;
+    color: green;
+}
+.first_service{
+    padding-top:30px;
+}
+.number{
+    font-size:50px;
+    color:orangered;
+    display: inline; 
+}
+.service_name{
+    color: green;
+}
